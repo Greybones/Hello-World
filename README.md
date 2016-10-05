@@ -1,2 +1,2 @@
 # Hello-World
-A test for how to make a new repository
+This message is a different one
